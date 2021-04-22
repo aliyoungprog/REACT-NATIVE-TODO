@@ -30,7 +30,7 @@ export default function App() {
       >
 
       <View style={appStyles.tasksBody}>
-        <Text style={{fontSize: 24, fontWeight: 'bold', color:"blue"}}>Task tracker by Naz</Text>
+        <Text style={{fontSize: 24, fontWeight: 'bold', color:"blue"}}>DOTO APP</Text>
         <View style={appStyles.items}>
           {
             taskItems.map((item, index) => {
